@@ -12,7 +12,7 @@ The project is split into two parts:
 - [Udagram-api-feed](https://hub.docker.com/repository/docker/rolandsankara/udagram-api-feed)
 - [reverseproxy](https://hub.docker.com/repository/docker/rolandsankara/reverseproxy)
 
-!['./screenshots/Docker-Hub-Images.png']('./screenshots/Docker-Hub-Images.png')
+![https://github.com/Roland-Sankara/udacity-project3/blob/main/screenshots/Docker-Hub-Images.png]('https://github.com/Roland-Sankara/udacity-project3/blob/main/screenshots/Docker-Hub-Images.png)
 
 #### Screenshots
 Check out the infrastructure [screenshots here]('./screenshots')
